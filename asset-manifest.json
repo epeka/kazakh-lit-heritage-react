@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kazakh-lit-heritage-react/static/css/main.cf890fdb.css",
-    "main.js": "/kazakh-lit-heritage-react/static/js/main.97391aae.js",
+    "main.js": "/kazakh-lit-heritage-react/static/js/main.fcf01961.js",
     "static/js/453.467075e0.chunk.js": "/kazakh-lit-heritage-react/static/js/453.467075e0.chunk.js",
     "index.html": "/kazakh-lit-heritage-react/index.html",
     "main.cf890fdb.css.map": "/kazakh-lit-heritage-react/static/css/main.cf890fdb.css.map",
-    "main.97391aae.js.map": "/kazakh-lit-heritage-react/static/js/main.97391aae.js.map",
+    "main.fcf01961.js.map": "/kazakh-lit-heritage-react/static/js/main.fcf01961.js.map",
     "453.467075e0.chunk.js.map": "/kazakh-lit-heritage-react/static/js/453.467075e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf890fdb.css",
-    "static/js/main.97391aae.js"
+    "static/js/main.fcf01961.js"
   ]
 }
