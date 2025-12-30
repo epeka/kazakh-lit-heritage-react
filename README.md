@@ -8,7 +8,7 @@ THE STEPPE REMEMBERS
 ![React](https://img.shields.io/badge/react-18.x-61dafb.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-[**Live Demo → https://epeka.github.io/the-steppe-remembers/](#) •
+[**Live Demo → ](#) • 
 
 ---
 
