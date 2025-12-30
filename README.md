@@ -29,7 +29,12 @@ THE STEPPE REMEMBERS
 
 ## 🖼️ Screenshots
 
-[Add your screenshots here]
+<img width="1496" height="812" alt="image" src="https://github.com/user-attachments/assets/fb3401c2-3010-429a-8d89-0dc75dc89a7f" />
+<img width="1501" height="812" alt="image" src="https://github.com/user-attachments/assets/ac6e3508-ab7f-47d4-95d3-281491b7ccfd" />
+<img width="1512" height="805" alt="image" src="https://github.com/user-attachments/assets/ceafa71b-fe29-40aa-acb9-53588841b3fa" />
+<img width="1512" height="809" alt="image" src="https://github.com/user-attachments/assets/1323ec9d-26c6-44ea-b903-12238b986876" />
+<img width="1512" height="809" alt="image" src="https://github.com/user-attachments/assets/ac92beeb-1e60-4475-90f0-76cd916000ee" />
+
 
 ---
 
